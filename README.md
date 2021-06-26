@@ -9,3 +9,4 @@
 1. https://zhuanlan.zhihu.com/p/61464591
 2. https://github.com/GeorgePlotnikov/ClrAnalyzer
 3. https://www.codeproject.com/Articles/26517/NET-Internals-and-Native-Compiling
+4. https://www.codeproject.com/Articles/26060/NET-Internals-and-Code-Injection
