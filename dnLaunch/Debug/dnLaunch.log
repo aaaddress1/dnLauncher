@@ -1,4 +1,0 @@
-﻿  dnLaunch.cpp
-C:\Users\aaaddress1\Desktop\dnLaunch\dnLaunch\corjit.h(16,1): warning C4005: 'MAKE_HRESULT': 巨集重複定義
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(29023): message : 請參閱 'MAKE_HRESULT' 之前的定義
-  dnLaunch.vcxproj -> C:\Users\aaaddress1\Desktop\dnLaunch\Debug\dnLaunch.exe
