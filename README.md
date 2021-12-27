@@ -10,3 +10,4 @@
 2. https://github.com/GeorgePlotnikov/ClrAnalyzer
 3. https://www.codeproject.com/Articles/26517/NET-Internals-and-Native-Compiling
 4. https://www.codeproject.com/Articles/26060/NET-Internals-and-Code-Injection
+5. https://www.mandiant.com/resources/bypassing-masslogger-anti-analysis-man-in-the-middle-approach
